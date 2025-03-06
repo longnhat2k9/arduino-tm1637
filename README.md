@@ -1,7 +1,7 @@
 # Project Arduino - TM1637 Display 4 digits
 
 ## Description
-This project made for learning arduino code. The project is about how to use TM1637 Display 4 Digits.
+Learn arduino: This project use to learn about the TM1637 4 Digits Display with arduino. The component list, circuit and code link below.
 
 ## Component List
 ```
@@ -11,5 +11,13 @@ This project made for learning arduino code. The project is about how to use TM1
 4. Resistor
 ```
 
+## Link project
+```
+Link Wokwi: https://wokwi.com/projects/424681243681346561
+```
+
+## Social post
+- https://www.instagram.com/p/DG2_emISgnb/
+  
 ## Simulate
 <img src="simulate.png">
