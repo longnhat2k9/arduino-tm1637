@@ -18,6 +18,7 @@ Link Wokwi: https://wokwi.com/projects/424681243681346561
 
 ## Social post
 - https://www.instagram.com/p/DG2_emISgnb/
+- https://x.com/ArduinoP60991/status/1900872215677305338
   
 ## Simulate
 <img src="simulate.png">
